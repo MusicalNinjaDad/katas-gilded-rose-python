@@ -48,11 +48,10 @@ Quality is 80 and it never alters.
 
 ## Getting Started
 
-Clone the repository. Run build.bat from Powershell. If you see 
-output similar to the following screenshot, you are ready to 
-start refactoring.
+Clone the repository. Run `./setup.sh`. If you see  output similar
+to the following screenshot, you are ready to  start refactoring.
 
-![alt text](images/build_output.png "Good Build Output")
+![Screenshot of Setup Output](img/setup_output.png "Good Setup Output")
 
 ## Who, What, Why?
 
