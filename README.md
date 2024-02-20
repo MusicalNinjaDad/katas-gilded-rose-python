@@ -55,16 +55,19 @@ start refactoring.
 ![alt text](images/build_output.png "Good Build Output")
 
 ## Who, What, Why?
-Who: [@TerryHughes](https://twitter.com/TerryHughes), [@NotMyself](https://twitter.com/NotMyself)
 
-What & Why: [Refactor This: The Gilded Rose Kata](http://iamnotmyself.com/2011/02/13/refactor-this-the-gilded-rose-kata/)
+### Originally
+
+- **Who:** [@TerryHughes](https://twitter.com/TerryHughes), [@NotMyself](https://twitter.com/NotMyself)
+
+- **What & Why:** [Refactor This: The Gilded Rose Kata](http://iamnotmyself.com/2011/02/13/refactor-this-the-gilded-rose-kata/)
+
+- The repository can be found at [https://github.com/NotMyself/GildedRose](https://github.com/NotMyself/GildedRose)
+
+### Additional thanks to
+
+- [Adrianlm17](https://github.com/Adrianlm17) for the awesome picture at the top
 
 ## License
 
 MIT
-
-## Suggested attribution
-
-This work is by [@TerryHughes](https://twitter.com/TerryHughes), [@NotMyself](https://twitter.com/NotMyself)
-
-The repository can be found at [https://github.com/NotMyself/GildedRose](https://github.com/NotMyself/GildedRose)
