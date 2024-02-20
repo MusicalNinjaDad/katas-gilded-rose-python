@@ -18,3 +18,6 @@ version = {file = '__version__'}
 [tool.setuptools.packages.find]
 where = ['.']
 include = ["gildedrose_console"]
+
+[project.optional-dependencies]
+test=['pytest']
