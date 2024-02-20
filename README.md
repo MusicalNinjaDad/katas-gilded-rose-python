@@ -67,6 +67,7 @@ start refactoring.
 ### Additional thanks to
 
 - [Adrianlm17](https://github.com/Adrianlm17) for the awesome picture at the top
+- [emilybache](https://github.com/emilybache) for the initial port to python
 
 ## License
 
