@@ -78,7 +78,7 @@ Quality is 80 and it never alters.
 
 1. Take small steps when refactoring, don't break anything at any time (you'll probably need tests for that), aim to finish with a codebase which you are proud of and a commit history which is long ...
 
-1. Don't be afraid to add any Infra-as-Code that you want. I deliberately left it out for reasons of purity and realism.
+1. Don't be afraid to update the dev environment etc. I deliberately left it out for reasons of purity and realism.
 
 1. Think about semantic versioning
 
